@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My Name is Sungwoo Choi
 
-
+I want to be the best developer!
 
 
 <!--
