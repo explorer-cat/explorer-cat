@@ -15,12 +15,12 @@
 
 
 ## 포트폴리오
-<a href = "https://dantechoi.notion.site/95139d817ab348febd7e90fa8912814a">노션 포트폴리오 && 이력서</a>
+  - <a href = "https://dantechoi.notion.site/95139d817ab348febd7e90fa8912814a">노션 포트폴리오 && 이력서</a>
 
 ## 🤙 Contact
 
   - sqlstyle@kakao.com
-  - velog
+  - <a href = "https://velog.io/@explorer-cat">velog</a>
   
 
 
