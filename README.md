@@ -1,7 +1,7 @@
 ### 👋 최성우 | sungwoo choi
 
 
-<input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> (주)헤븐트리 SaaS 서비스 '클로바인' 개발 (20.11 ~ 22.12)
+<input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주)헤븐트리 SaaS 서비스 '클로바인' 개발 (20.11 ~ 22.12)
 
 
 ## 💻 My Skill
