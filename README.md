@@ -3,7 +3,7 @@
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 빗썸코리아 테크 아카테미 2기 수료 (22.04 ~ 22.06)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주)헤븐트리 SaaS 서비스 '클로바인' 개발 (20.11 ~ 22.12)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 영남이공대학교 컴퓨터정보과(3년) 졸업 (16.03 ~ 21.11)
-
+- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 공군 병장 만기전역 (정보통신) (16.09 ~ 18.09)
 ## 💻 스킬 스택
 
 <img alt="Spring" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="ReactJs" src ="https://img.shields.io/badge/-ReactJs-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Amazon" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
