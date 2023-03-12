@@ -1,6 +1,8 @@
-### Hi there 👋 My Name is Sungwoo Choi
+### 👋 최성우 | sungwoo choi
 
-I want to be the best developer!
+
+<input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> (주)헤븐트리 SaaS 서비스 '클로바인' 개발 (20.11 ~ 22.12)
+
 
 ## 💻 My Skill
 ![Uploading image.png…]()
