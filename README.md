@@ -1,5 +1,5 @@
 ### 👋 최성우 | sungwoo choi
-풀스택 개발자가 되고싶은 5년차 개발자 최성우 입니다.
+풀스택 개발자가 되고싶은 4년차 개발자 최성우 입니다.
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> DGB 데이터시스템 (24.01.02 ~ )
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) YH데이타베이스 서비스개발팀 (23.07.03 ~ 23.12.27)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) 헤븐트리 B2C '클로바인' 서비스 개발 및 런칭 (20.11 ~ 23.01)
