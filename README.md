@@ -1,8 +1,8 @@
 ### 👋 최성우 | sungwoo choi
 풀스택 개발자가 되고싶은 4년차 개발자 최성우 입니다.
-- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> DGB 데이터시스템 (24.01.02 ~ )
+- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) DGB데이터시스템 (24.01.02 ~ )
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) YH데이타베이스 서비스개발팀 (23.07.03 ~ 23.12.27)
-- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) 헤븐트리 '클로바인' 서비스 개발 및 런칭 (20.11 ~ 23.01)
+- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) 헤븐트리 서비스개발 및 런칭 (20.11 ~ 23.01)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 빗썸코리아 테크 아카테미 2기 수료 (22.04 ~ 22.06)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 영남이공대학교 컴퓨터정보과 졸업 (16.03 ~ 21.11)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 공군 병장 만기전역 (정보통신) (16.09 ~ 18.09)
