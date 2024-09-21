@@ -1,6 +1,5 @@
 ### 👋 최성우 | sungwoo choi
 풀스택 개발자가 되고싶은 4년차 개발자 최성우 입니다.
-- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) YH데이타베이스 서비스개발팀 (24.09.23 ~ )
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) DGB데이터시스템 (24.01.02 ~ 24.09.13)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) YH데이타베이스 서비스개발팀 (23.07.03 ~ 23.12.27)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 빗썸코리아 테크 아카테미 2기 수료 (22.04 ~ 22.06)
