@@ -4,8 +4,6 @@
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) YH데이타베이스 서비스개발팀 (23.07.03 ~ 23.12.27)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 빗썸코리아 테크 아카테미 2기 수료 (22.04 ~ 22.06)
 - <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> (주) 헤븐트리 서비스개발 및 런칭 (20.11 ~ 23.01)
-- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 영남이공대학교 컴퓨터정보과 졸업 (16.03 ~ 21.11)
-- <input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="true"/> 공군 병장 만기전역 (정보통신) (16.09 ~ 18.09)
 
 ## 💻 스킬 스택
 <img alt="Spring" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
